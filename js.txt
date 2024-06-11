@@ -1,0 +1,2 @@
+its a scripting language
+it is used to add functionalities
